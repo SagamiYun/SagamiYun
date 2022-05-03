@@ -21,5 +21,5 @@ Gitee：https://gitee.com/sagamiyun
 
 Github：https://github.com/SagamiYun
 
-![:name](https://img.sagamiyun.cn//img/@:sagamiyun)
+![:name](https://count.getloli.com/get/@:sagamiyun?theme=gelbooru)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagamiyun&show_icons=true&locale=en" alt="sagamiyun" />
