@@ -19,7 +19,5 @@ QQ：907638483
 
 Gitee：https://gitee.com/sagamiyun
 
-Github：https://github.com/SagamiYun
-
-![:name](https://count.getloli.com/get/@:sagamiyun?theme=gelbooru)
+<figure><embed src="https://wakatime.com/share/@2fc8db20-a529-43e4-a439-8bce5a1f91d1/85e996ce-fb78-49be-ae72-33eb9ccc0e5c.svg"></embed></figure>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagamiyun&show_icons=true&locale=en" alt="sagamiyun" />
