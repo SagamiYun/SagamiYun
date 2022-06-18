@@ -30,17 +30,17 @@ Hello 大家好，我是SagamiYun，一个重度技术肥宅（虽然好像没�
 
 ## **⌨️编程语言 | Programming Languages**
 
-### **前端 **
+### **前端**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![Vue](https://img.shields.io/badge/-Vue-inactive?style=flat-square&logo=Vue.js)![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 
-### **后端 **
+### **后端** 
 
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)![PHP](https://img.shields.io/badge/-php-blue?style=flat-square&logo=php)![Spring](https://img.shields.io/badge/-spring-green?style=flat-square&logo=spring)![Spring Boot](https://img.shields.io/badge/-spring%20boot-green?style=flat-square&logo=springboot)
 
 ### **工具**
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)![Centos](https://img.shields.io/badge/-centos-orange?style=flat-square&logo=centos&logoColor=blue)![Debian](https://img.shields.io/badge/-debian-blue?style=flat-square&logo=debian&logoColor=purple)![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)![IDEA](https://img.shields.io/badge/-IntelliJ IDEA-yellowgreen?style=flat-square&logo=IntelliJ%20IDEA)![WebStorm](https://img.shields.io/badge/-WebStorm-blue?style=flat-square&logo=WebStorm)![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)![Centos](https://img.shields.io/badge/-centos-orange?style=flat-square&logo=centos&logoColor=blue)![Debian](https://img.shields.io/badge/-debian-blue?style=flat-square&logo=debian&logoColor=purple)![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)![IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-yellowgreen?style=flat-square&logo=IntelliJ%20IDEA)![WebStorm](https://img.shields.io/badge/-WebStorm-blue?style=flat-square&logo=WebStorm)![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 
 
 
