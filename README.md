@@ -11,8 +11,7 @@
   <a href="https://music.163.com/#/user/home?id=308884279"><img src="https://img.shields.io/badge/Netease Cloud Music-网易云音乐-003472"></a>&emsp;
   <a href="https://space.bilibili.com/67613333"><img src="https://img.shields.io/badge/BiliBili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://stackoverflow.com/users/18073885/ql-sagamiyun"><img src="https://img.shields.io/badge/Stackoverflow-栈溢出-c32136"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/Gitee-码云-c32136"></a>&emsp;
-  <a href="qiaolei19981021@163.com"><img src="https://img.shields.io/badge/Email-邮箱-blue"></a>&emsp;
+  <a href="https://gitee.com/sagamiyun/"><img src="https://img.shields.io/badge/Gitee-码云-c32136"></a>&emsp;
   </div>
 
 
@@ -32,7 +31,7 @@ Hello 大家好，我是SagamiYun，一个重度技术肥宅（虽然好像没�
 
 ## **⌨️编程语言 | Programming Languages**
 
-### 前端 
+### **前端**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![Vue](https://img.shields.io/badge/-Vue-inactive?style=flat-square&logo=Vue.js)![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 
