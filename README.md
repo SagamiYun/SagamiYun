@@ -15,7 +15,7 @@
   </div>
 
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/SagamiYun/SagamiYun/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sagamiyun/sagamiyun/assets/github-contribution-grid-snake.svg" /></div>
 
 <h1 align="center">嗨<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="35px">，我是SagamiYun</h1>
 <h3 align="center">做梦家，很菜</h3>
