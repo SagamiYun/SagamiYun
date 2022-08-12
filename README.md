@@ -37,7 +37,7 @@ Hello 大家好，我是SagamiYun，一个重度技术肥宅（虽然好像没�
 
 ### **后端** 
 
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)![PHP](https://img.shields.io/badge/-php-blue?style=flat-square&logo=php)![Spring](https://img.shields.io/badge/-spring-green?style=flat-square&logo=spring)![Spring Boot](https://img.shields.io/badge/-spring%20boot-green?style=flat-square&logo=springboot)
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)![PHP](https://img.shields.io/badge/-php-blue?style=flat-square&logo=php)![Spring](https://img.shields.io/badge/-spring-green?style=flat-square&logo=spring)![Spring Boot](https://img.shields.io/badge/-spring boot-green?style=flat-square&logo=springboot)![Golang](https://img.shields.io/badge/-go-blue?style=flat-square&logo=go&logoColor=white)
 
 ### **工具**
 
@@ -47,7 +47,7 @@ Hello 大家好，我是SagamiYun，一个重度技术肥宅（虽然好像没�
 
 ## 🧠 **计划学习:**
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)![Golang](https://img.shields.io/badge/-go-blue?style=flat-square&logo=go&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)![Flutter](https://img.shields.io/badge/-flutter-4285F4?style=flat-square&logo=flutter&logoColor=white)![Quarkus](https://img.shields.io/badge/-quarkus-yellow?style=flat-square&logo=quarkus)![React](https://img.shields.io/badge/-react-inactive?style=flat-square&logo=react)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)![Flutter](https://img.shields.io/badge/-flutter-4285F4?style=flat-square&logo=flutter&logoColor=white)![Quarkus](https://img.shields.io/badge/-quarkus-yellow?style=flat-square&logo=quarkus)![React](https://img.shields.io/badge/-react-inactive?style=flat-square&logo=react)
 
 
 
