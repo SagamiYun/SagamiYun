@@ -21,7 +21,7 @@
 <h3 align="center">做梦家，很菜</h3>
 
 
-Hello 大家好，我是SagamiYun，一个重度技术肥宅（虽然好像没什么技术）一位电音爱好者  一位音游菜鸟 一位Tanker  最强装死人，当然还有就是一位平凡且倔强的追梦人
+Hello 大家好，我是SagamiYun，一个重度肥宅 一位电音爱好者  一位音游菜鸟 一位Tanker  最强装死人，当然还有就是一位平凡且倔强的追梦人
 
 目前的大方向是Java网页后端，渗透测试（网络安全），全栈工程师
 
@@ -33,23 +33,25 @@ Hello 大家好，我是SagamiYun，一个重度技术肥宅（虽然好像没�
 
 ### **前端**
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![Vue](https://img.shields.io/badge/-Vue-inactive?style=flat-square&logo=Vue.js)![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![Vue](https://img.shields.io/badge/-Vue-inactive?style=flat-square&logo=Vue.js)![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/-React-inactive?style=flat-square&logo=react)
+
+
 
 ### **后端** 
 
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)![PHP](https://img.shields.io/badge/-php-blue?style=flat-square&logo=php)![Spring](https://img.shields.io/badge/-spring-green?style=flat-square&logo=spring)![Spring Boot](https://img.shields.io/badge/-spring%20boot-green?style=flat-square&logo=springboot)![Golang](https://img.shields.io/badge/-go-blue?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=java)![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white)![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring)![Spring Boot](https://img.shields.io/badge/-Spring Boot-green?style=flat-square&logo=springboot)![Golang](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=white)![laravel](https://img.shields.io/badge/-Laravel-blue?style=flat-square&logo=laravel&logoColor=white)
+
+
 
 ### **工具**
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)![Centos](https://img.shields.io/badge/-centos-orange?style=flat-square&logo=centos&logoColor=blue)![Debian](https://img.shields.io/badge/-debian-blue?style=flat-square&logo=debian&logoColor=purple)![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)![IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-yellowgreen?style=flat-square&logo=IntelliJ%20IDEA)![WebStorm](https://img.shields.io/badge/-WebStorm-blue?style=flat-square&logo=WebStorm)![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)![Centos](https://img.shields.io/badge/-Centos-orange?style=flat-square&logo=centos&logoColor=white)![Debian](https://img.shields.io/badge/-Debian-blue?style=flat-square&logo=debian&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)![IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-yellowgreen?style=flat-square&logo=IntelliJ%20IDEA)![WebStorm](https://img.shields.io/badge/-WebStorm-blue?style=flat-square&logo=WebStorm)![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker) ![Yarn](https://img.shields.io/badge/-Yarn-c0ebd?style=flat-square&logo=Yarn)
 
 
 
 ## 🧠 **计划学习:**
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)![Flutter](https://img.shields.io/badge/-flutter-4285F4?style=flat-square&logo=flutter&logoColor=white)![Quarkus](https://img.shields.io/badge/-quarkus-yellow?style=flat-square&logo=quarkus)![React](https://img.shields.io/badge/-react-inactive?style=flat-square&logo=react)
-
-
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)![Flutter](https://img.shields.io/badge/-Flutter-4285F4?style=flat-square&logo=flutter&logoColor=white)![Quarkus](https://img.shields.io/badge/-Quarkus-yellow?style=flat-square&logo=quarkus) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-FCC624?style=flat-square&logo=Kubernetes) ![PyTorch](https://img.shields.io/badge/-PyTorch-pink?style=flat-square&logo=PyTorch)
 
 <div align="center">
     <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
