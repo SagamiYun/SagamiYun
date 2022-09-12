@@ -1,9 +1,9 @@
 <h1 align="center">
 	<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Start%20Dreaming!&center=true&size=27"></h1>
-
+<br/>
 
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
-<br>
+<br/>
 
 <div align="center">
   <a href="https://sagamiyun.cn/"><img src="https://img.shields.io/badge/Blog-个人博客-blue"></a>&emsp;
@@ -29,11 +29,13 @@ Hello 大家好，我是SagamiYun，一个重度肥宅 一位电音爱好者  �
 
 请各位前辈请多关照！
 
+<br/>
+
 ## **⌨️编程语言 | Programming Languages**
 
 ### **前端**
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![Vue](https://img.shields.io/badge/-Vue-inactive?style=flat-square&logo=Vue.js)![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/-React-inactive?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![Vue](https://img.shields.io/badge/-Vue-inactive?style=flat-square&logo=Vue.js)![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/-React-inactive?style=flat-square&logo=react)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 
 
 
@@ -53,6 +55,9 @@ Hello 大家好，我是SagamiYun，一个重度肥宅 一位电音爱好者  �
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)![Flutter](https://img.shields.io/badge/-Flutter-4285F4?style=flat-square&logo=flutter&logoColor=white)![Quarkus](https://img.shields.io/badge/-Quarkus-yellow?style=flat-square&logo=quarkus)![Kubernetes](https://img.shields.io/badge/-Kubernetes-FCC624?style=flat-square&logo=Kubernetes)![PyTorch](https://img.shields.io/badge/-PyTorch-pink?style=flat-square&logo=PyTorch)
 
+<br/>
+<br/>
+
 <div align="center">
     <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
     <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
@@ -64,8 +69,11 @@ Hello 大家好，我是SagamiYun，一个重度肥宅 一位电音爱好者  �
     <img alt="react" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" title="react">
     <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
+<br/>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+
+<br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagamiyun&show_icons=true&locale=en" alt="sagamiyun" />
 
