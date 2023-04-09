@@ -41,7 +41,7 @@ Hello 大家好，我是SagamiYun，一个重度肥宅 一位电音爱好者  �
 
 ### **后端** 
 
-![Java](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=java)![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white)![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring)![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?style=flat-square&logo=springboot)![Golang](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=white)![laravel](https://img.shields.io/badge/-Laravel-blue?style=flat-square&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=java)![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white)![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring)![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?style=flat-square&logo=springboot)![Golang](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=white)![laravel](https://img.shields.io/badge/-Laravel-blue?style=flat-square&logo=laravel&logoColor=white)![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 
 
 
@@ -53,7 +53,7 @@ Hello 大家好，我是SagamiYun，一个重度肥宅 一位电音爱好者  �
 
 ## 🧠 **计划学习:**
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)![Flutter](https://img.shields.io/badge/-Flutter-4285F4?style=flat-square&logo=flutter&logoColor=white)![Quarkus](https://img.shields.io/badge/-Quarkus-yellow?style=flat-square&logo=quarkus)![Kubernetes](https://img.shields.io/badge/-Kubernetes-FCC624?style=flat-square&logo=Kubernetes)![PyTorch](https://img.shields.io/badge/-PyTorch-pink?style=flat-square&logo=PyTorch)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)![Flutter](https://img.shields.io/badge/-Flutter-4285F4?style=flat-square&logo=flutter&logoColor=white)![Quarkus](https://img.shields.io/badge/-Quarkus-yellow?style=flat-square&logo=quarkus)![Kubernetes](https://img.shields.io/badge/-Kubernetes-FCC624?style=flat-square&logo=Kubernetes)![PyTorch](https://img.shields.io/badge/-PyTorch-pink?style=flat-square&logo=PyTorch)
 
 <br/>
 <br/>
